@@ -44,4 +44,12 @@
             android:text="@string/crime_solved_label" />
     </LinearLayout>
 
+    <Button
+        android:id="@+id/remove_crime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:text="@string/remove_crime"/>
+
 </LinearLayout>
