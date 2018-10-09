@@ -3,6 +3,8 @@
     package="com.example.fangyan.criminalintent">
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"
         android:maxSdkVersion="18" />
+    <uses-feature android:name="android.hardware.camera"
+        android:requried = "false" />
 
     <application
         android:allowBackup="true"
